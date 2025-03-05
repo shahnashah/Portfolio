@@ -15,37 +15,37 @@ function Projects() {
       title: "Shine Villa",
       src: shine_villa,
       tech: "MERN",
-      link: "https://github.com/shahnashah/synvilla.git",
+      url: "https://github.com/shahnashah/synvilla.git",
     },
     {
       title: "Password Manager",
       src: password_manager,
       tech: "React",
-      link: "https://fluffy-palmier-bd042e.netlify.app/",
+      url: "https://fluffy-palmier-bd042e.netlify.app/",
     },
     {
       title: "Lensify",
       src: lensify,
       tech: "Html, css, js",
-      link: "https://lensify-p1.netlify.app/",
+      url: "https://lensify-p1.netlify.app/",
     },
     {
       title: "Dice Game",
       src: dice_game,
       tech: "HTML, CSS, JS",
-      link: "https://legendary-stroopwafel-f06d51.netlify.app/",
+      url: "https://legendary-stroopwafel-f06d51.netlify.app/",
     },
     {
       title: "Random jokes",
       src: random_jokes,
       tech: "HTML, CSS, JS",
-      link: "https://shahnashah.github.io/random_jokes/",
+      url: "https://shahnashah.github.io/random_jokes/",
     },
     {
       title: "TODO List",
       src: todo_list,
       tech: "HTML, CSS, JS",
-      link: "https://cosmic-puppy-e56f0d.netlify.app/",
+      url: "https://cosmic-puppy-e56f0d.netlify.app/",
     },
   ];
 
