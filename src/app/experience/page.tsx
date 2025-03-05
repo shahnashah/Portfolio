@@ -1,11 +1,5 @@
-import Image from "next/image";
+
 import React from "react";
-import { Timeline } from "@/components/ui/timeline";
-import indore1 from '@/public/assets/indore1.jpg'
-import indore2 from '@/public/assets/indore2.jpg'
-import sih from '@/public/assets/sih.jpg'
-import sih2 from '@/public/assets/sih2.jpg'
-import college from '@/public/assets/college.jpg'
 import Nav from "@/components/Nav";
 import Experience from "@/components/Experience";
 

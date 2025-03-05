@@ -189,7 +189,7 @@ export const Card = ({
   const handleClose = () => {
     setOpen(false);
     onCardClose(index);
-  };
+  };  
 
   return (
     <Link href={card.link}>
