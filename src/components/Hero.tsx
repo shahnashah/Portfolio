@@ -18,7 +18,7 @@ const links = [
     icon: (
       <IconBrandLinkedin className="h-full w-full text-neutral-500 dark:text-neutral-300" />
     ),
-    href: "https://www.linkedin.com/in/shahna-shah-0188b26a",
+    href: "https://www.linkedin.com/in/shahna-shah-01882b26a",
   },
 
   {
