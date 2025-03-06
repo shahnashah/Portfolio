@@ -5,9 +5,9 @@ import Image from "next/image";
 import { TracingBeam } from "@/components/ui/tracing-beam";
 // import Nav from "@/components/Nav";
 import { TypewriterEffect } from "./ui/typewriter-effect";
-import about from "../public/assets/about.jpg";
-import schooling from "../public/assets/schooling.jpg";
-import graduation from "../public/assets/graduation.jpg";
+import first from "../public/assets/first.png";
+import second from "../public/assets/second.png";
+import third from "../public/assets/third.png";
 import interests from "../public/assets/interests.jpg";
 
 
@@ -72,7 +72,7 @@ const dummyContent = [
       </>
     ),
     badge: "Brief Intro",
-    image: about
+    image: first
   },
   {
     title: "",
@@ -89,7 +89,7 @@ const dummyContent = [
       </>
     ),
     badge: "Schooling",
-    image: schooling  },
+    image: second  },
   {
     title: "",
     description: (
@@ -105,7 +105,7 @@ const dummyContent = [
       </>
     ),
     badge: "Graduation",
-    image: graduation  },
+    image: third  },
   {
     title: "",
     description: (
